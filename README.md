@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-I'm Alizah, welcome to my github page!
+I'm Alizah, welcome to my github page! Not much goin on here -_- ...
 
